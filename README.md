@@ -12,5 +12,8 @@ Z -> 26 ,
 AA -> 27 ,
 AB -> 28 
 
+## IDE
+Visual Studio
+
 ## Language
 C++
